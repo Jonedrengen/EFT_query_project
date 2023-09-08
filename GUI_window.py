@@ -4,6 +4,7 @@ import tkinter as tk
 # create a window
 GUI = tk.Tk()
 
+print(tk.TkVersion)
 # set the geometry of window
 GUI.geometry("550x350")
 

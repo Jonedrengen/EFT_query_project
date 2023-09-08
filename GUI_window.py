@@ -1,8 +1,8 @@
 # import tkinter to create GUI
-import tkinter
+import tkinter as tk
 
 # create a window
-GUI = tkinter.Tk()
+GUI = tk.Tk()
 
 # set the geometry of window
 GUI.geometry("550x350")

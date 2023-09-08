@@ -6,3 +6,5 @@ df = pd.read_csv('ammo_stats.csv')
 
 # view the first 5 rows of the dataframe
 print(df.head(100))
+
+

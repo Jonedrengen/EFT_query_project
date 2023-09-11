@@ -2,4 +2,4 @@ python==3.11.4
 pandas==2.1.0
 openpyxl==3.0.10
 # tkinter version 8.6 is used in this project (tkinter included in the Python standard library)
-# 
+# Anaconda was used in development
